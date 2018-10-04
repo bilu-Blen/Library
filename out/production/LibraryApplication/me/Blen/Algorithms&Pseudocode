@@ -1,0 +1,16 @@
+Algorithm 
+
+Input - Book(Title, Author, Year, ISBM Number, Image)
+
+Process - 
+1. prompt the user to add a book 
+2. check if the user entered all the required input are entered 
+3. save the book 
+4. check if the book it is borrowed or not 
+5. show the list of books
+6. allow users to borrow a book
+7. indicate borrowed books
+8. give option to return a book after showing the list of books 
+9. make returned books available for users 
+
+
